@@ -2,4 +2,3 @@
 #
 42f0c83244389e408b42fa668348002012ecba46                                           	GitHub Replication
 480f802a8837a29b42837bd93df48c305086fb08                                           	saml/acumos-gerrit-threat-analytics-committers
-ldap:cn=acumos-gerrit-threat-analytics-committers,ou=Groups,dc=freestandards,dc=org	ldap/acumos-gerrit-threat-analytics-committers
